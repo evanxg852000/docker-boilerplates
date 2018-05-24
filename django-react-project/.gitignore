@@ -1,6 +1,8 @@
-node_modules/*
+node_modules/*.*
 coverage/
-dist/
+build/
+
+!**/.gitkeep
 
 .DS_Store
 .env.local
