@@ -103,7 +103,7 @@ install_from_archive() {
 
 
     _file="quickwit-v0.1.0.tar.gz"
-    _url="https://github.com/evanxg852000/docker-boilerplates/releases/download/v0.1.0/quickwit-v0.1.0.tar.gz"
+    _url="https://github.com/evanxg852000/docker-boilerplates/releases/download/v0.1.0/quickwit-v0.1.0-musl.tar.gz"
 
 
     printf "%s Downloading Quickwit via %s" "$_prompt" "$_url"
